@@ -12,3 +12,5 @@ The metadata fields for each image added to my repository are the following:
 * File Size - The size of the ROM image
 * Checksum - An MD5 checksum to verify that the ROM image is clean and genuine
 
+The repository website can be accessed though this link:
+https://snesrepository.github.io/SNESRepository/index.html
